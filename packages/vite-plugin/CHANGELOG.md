@@ -1,5 +1,11 @@
 # @vanilla-extract/vite-plugin
 
+## 3.1.7
+
+### Patch Changes
+
+- [#707](https://github.com/seek-oss/vanilla-extract/pull/707) [`162b66f`](https://github.com/seek-oss/vanilla-extract/commit/162b66fb48262182846ff71a25d541e00257672c) Thanks [@AndrewLeedham](https://github.com/AndrewLeedham)! - Fix styles not updating in dev mode
+
 ## 3.1.6
 
 ### Patch Changes
